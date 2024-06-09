@@ -5,8 +5,7 @@ This application combines the power of Flask, React, and Python to create, updat
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-  - Demonstrations 
+- [Demonstrations](#features)
   - [Create Dynamic Cards](#create-dynamic-cards)
   - [Update Dynamic Cards](#update-dynamic-cards)
   - [Delete Dynamic Cards](#delete-dynamic-cards)
@@ -22,7 +21,7 @@ This application combines the power of Flask, React, and Python to create, updat
 
 ---
 
-## Features
+## Demonstrations
 
 ### Create Dynamic Cards
 
