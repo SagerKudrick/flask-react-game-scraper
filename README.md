@@ -1,4 +1,4 @@
-# Dynamic Cards Manager
+# Dynamic Card Manager
 
 Welcome to the Dynamic Cards Manager project! This application combines the power of Flask, React, and Python to deliver a seamless experience for managing and interacting with dynamic cards. Whether you're creating, updating, deleting, or filtering cards, this project has got you covered.
 
