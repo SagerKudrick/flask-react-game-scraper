@@ -10,29 +10,25 @@ This application combines the power of Flask, React, and Python to create, updat
 ## Features
 
 ### Create Dynamic Cards
+Python scripts scrape data from a designated website, populating our database with the latest information, but you can also add your own. 
+
 <p align="center">
   <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/creating.gif">
 </p>
-
-Python scripts scrape data from a designated website, populating our database with the latest information, but you can also add your own. 
 
 ### Update Dynamic Cards
 <p align="center">
   <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/update.gif">
 </p>
 
-Keep your cards up to date with the latest information.
-
 ### Delete Dynamic Cards
 <p align="center">
   <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/delete.gif">
 </p>
 
-Delete functionality ensures a clutter-free experience.
-
 ### Filter Cards
+See only relevant cards, filtering based on whether a game is "Free" or "Paid".
+
 <p align="center">
   <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/filtering.gif">
 </p>
-
-See only relevant cards, filtering based on whether a game is "Free" or "Paid".
