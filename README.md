@@ -32,3 +32,10 @@ See only relevant cards, filtering based on whether a game is "Free" or "Paid".
 <p align="center">
   <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/filtering.gif">
 </p>
+
+### API Endpoints
+Rather than using the React frontend, Postman or other services can be used to interact with the API endpoints for traditional CRUD operations that are reflected on the React frontend. 
+
+<p align="center">
+  <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/postmanAPI.gif">
+</p>
